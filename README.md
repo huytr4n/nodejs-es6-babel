@@ -7,7 +7,9 @@ The purpose of this repo is start a simple express server with ES6 syntax compli
 # Stacks
 
 Node.js
+
 Babel
+
 Express.js
 
 # How to run
@@ -16,4 +18,6 @@ Express.js
 
     npm start
 
-Check out server at (http://localhost:3000)
+Check out server at
+
+(http://localhost:3000)
